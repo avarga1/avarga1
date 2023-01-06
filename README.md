@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avarga1
-- 👀 I’m interested in - Python, Machine learning, OpneCV, reinforcement learning
-- 🌱 I’m currently learning - GIT work flow, 
+- 👀 I’m interested in - Machine learning, Web dev,
+- 🌱 I’m currently learning - Serverside  
 - 📫 How to reach me - austinvarga1@protonmail.com
 
 <!---
