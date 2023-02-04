@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @avarga1
-- 👀 I’m interested in - Machine learning, Web dev,
-- 🌱 I’m currently learning - Serverside  
+- 👀 I’m interested in - Machine learning, Fintech
 - 📫 How to reach me - austinvarga1@protonmail.com
 
 <!---
