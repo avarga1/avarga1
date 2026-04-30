@@ -29,6 +29,23 @@ Python • Rust • CUDA • FastAPI • Postgres • SQLite • Vector DBs
 
 ---
 
+## 📊 Systems footprint
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avarga1&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="Austin's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avarga1&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Austin's most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avarga1&theme=github_dark" alt="Austin's GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avarga1&theme=github-dark&hide_border=true&area=true&custom_title=Runtime%20Signal" alt="Austin's GitHub activity graph" />
+</p>
+
+---
+
 ## ⚡ Current obsession
 
 Designing systems that:
