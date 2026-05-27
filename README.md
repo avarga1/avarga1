@@ -1,5 +1,3 @@
-# Austin Varga ⚡
-
 Hi, I’m Austin —   
 I hate hard problems. I hate easy problems even more.
 
@@ -54,7 +52,3 @@ Designing systems that:
 - make better decisions with context
 
 ---
-
-## 📫 Contact
-
-austinvarga1@protonmail.com
